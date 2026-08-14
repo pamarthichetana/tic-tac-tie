@@ -1,0 +1,7 @@
+student=[
+            {"name":"chetana", "marks": [23,34,56]},
+            {"name":"chandana", "marks": [32,45,67]},       
+            {"name":"usha", "marks": [43,56,"ABC"]}
+
+]
+print("names:",student)
